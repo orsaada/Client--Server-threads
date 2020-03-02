@@ -1,0 +1,13 @@
+Client2: Starting connect to 127.0.0.1:2222
+Client2: Client Message ===> LOGIN shlomi cocacola
+Client2: ACK login succeeded
+Client2: Client Message ===> REQUEST balance info
+Client2: ACK balance 112
+Client2: Client Message ===> REQUEST balance add 20
+Client2: ACK balance 132 added 20
+Client2: Client Message ===> REQUEST balance info
+Client2: ACK balance 132
+Client2: Client Message ===> REQUEST balance add 5
+Client2: ACK balance 137 added 5
+Client2: Client Message ===> SIGNOUT
+Client2: ACK signout succeeded

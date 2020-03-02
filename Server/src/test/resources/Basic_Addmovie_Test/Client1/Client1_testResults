@@ -1,0 +1,30 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN john potato
+Client1: ACK login succeeded
+Client1: Client Message ===> REQUEST addmovie "The Godfather" 3 30 "USA"
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Notebook" 3 30 "USA"
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "Passengers" 3 30 "USA"
+Client1: ACK addmovie "Passengers" success
+Client1: Client Message ===> REQUEST addmovie "The Force Awakens" 0 50 "Honk Kong" "China"
+Client1: BROADCAST movie "Passengers" 3 30
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Force Awakens" 10 -1 "Honk Kong" "China"
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Force Awakens" -1 1 "Honk Kong" "China"
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Force Awakens" 5 0 "Honk Kong" "China"
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Force Awakens" 10 50 "Honk Kong" "China"
+Client1: ACK addmovie "The Force Awakens" success
+Client1: Client Message ===> REQUEST addmovie "Justice League" 2 8
+Client1: BROADCAST movie "The Force Awakens" 10 50
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The Pursuit Of Happyness" 2 8
+Client1: ERROR request addmovie failed
+Client1: Client Message ===> REQUEST addmovie "The King Of Scotland" 2 8
+Client1: ACK addmovie "The King Of Scotland" success
+Client1: Client Message ===> SIGNOUT
+Client1: BROADCAST movie "The King Of Scotland" 2 8
+Client1: ACK signout succeeded

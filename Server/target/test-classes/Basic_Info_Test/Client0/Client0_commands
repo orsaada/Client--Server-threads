@@ -1,0 +1,7 @@
+LOGIN lisa chips123
+REQUEST info
+REQUEST info "The Godfather"
+REQUEST info "The Pursuit Of Happyness"
+REQUEST info "The Notebook"
+REQUEST info "Justice League"
+SIGNOUT

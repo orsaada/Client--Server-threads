@@ -1,0 +1,5 @@
+REGISTER user* pass country="land*"
+LOGIN user* pass
+REQUEST rent "Justice League" 
+REQUEST return "Justice League" 
+SIGNOUT

@@ -1,0 +1,10 @@
+Client3: Starting connect to 127.0.0.1:2222
+Client3: Client Message ===> LOGIN shlomi chips123
+Client3: ERROR login failed
+Client3: Client Message ===> LOGIN shlomi cocacola
+Client3: ACK login succeeded
+Client3: Client Message ===> SIGNOUT
+Client3: ACK signout succeeded
+Client3: Exiting...
+Client3: Test Message ===> Test Ended !!! Waiting for client termination...
+Client3: 

@@ -1,0 +1,53 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user97 passCClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST addmovie "The King Of Scotland72" 2 8
+Client*: BROADCAST movie "The King Of Scotland8" 2 8CClient*: BROADCAST movie "The King Of Scotland7" 2 8
+Client*: BROADCAST movie "The King Of Scotland36" 2 8
+Client*: ACK addmovie "The King Of Scotland72" successClient*: BROADCAST movie "The King Of Scotland72" 2 ClClient*: BROADCAST movie "The King Of Scotland66" 2 ClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Scotland74" 2 ClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Scotland89" 2 ClClient*: BROADCAST movie "The King Of Scotland40" 2 ClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Client*: BROADCAST movie "The King Of Scotland35" 2 8
+Client*: BROADClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Scotland62" 2 ClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Client*: BROADClClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCClient*: BROADCAST movie "The King Of SClient*: BROADCClient*: BROADCAST movie "The King Client*: BROADCAST Client*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: ACK addmovie "The King Of ScoClient*: BROADCAClient*: BROADCAST movie "The King Of Scotland54" 2 8
+Client*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: BROADCAST movie "The King Of Scotland45" 2 8
+Client*: ACK addmovie "The King Of ScoClient*: BROADCAClient*: BROADCAST movie "The King Of Scotland53" 2 8
+Client*: BROADCAST movie "The King Of Client*: BROADCAST movie "The King Of Scotland53" 2 8
+Client*: BROADCAST movie "The King Of Scotland86" 2 8
+Client*: BROADCAST movie "The King Of Scotland58" 2 8
+Client*: BROADCAST movie "The King Of Scotland85" 2 8
+Client*: BROADCAClient*: BROADCAST movie "The King Of Client*: BROADCAClient*: ACK addmovie "The King Of ScoClient*: BROADCAST movie "The King Of Scotland77" 2 8
+Client*: BROADCAST movie "The King Of Scotland75" 2 8
+Client*: ACK signout succeeded
+ovie "The King Of Scotland49" 2 8
+Client*: BROADCAST movie "The King Of ScClient*: BROADCAST movie "The King Of Scotland49" 2 8
+Client*: BROADCAST movie "The King Of Scotland61" 2 8
+Client*: BROADCAST movie "The King Of Scotland61" 2 8
+Client*: BROADCAST movie "The King Of Scotland82" 2 8
+Client*: BROADCAST movie "The King Of Scotland94" 2 8
+Client*: BROAClClient*: BROADCAST movie "The King Of Scotland81" 2 ClClient*: BROADCAST movie "The King Of Scotland8" 2 ClClient*: BROADCAST movie "The King Of Scotland7" 2 8
+Client*: ACK addmovie "The King Of SClient*: BROADCAST movie "The King Of Scotland7" 2 8
+Client*: BROADCAST movie "The King Of Scotland36" 2 8
+Client*: BROADCAST movie "The King Of Scotland72" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland66" 2 8
+Client*: BROADCAST movie "The King Of Scotland65" 2CliClient*: BROADCAST movie "The King Of Scotland74" 2CliClient*: BROADCAST movie "The King Of Scotland97" 2Client*: BROADCAST movie "The King Of Scotland89" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland40" 2CliClient*: BROADCAST movie "The King Of Scotland70" 2CliClient*: BROADCAST movie "The King Of Scotland35" 2CliClient*: BROADCAST movie "The King Of Scotland68" 2CliClient*: BROADCAST movie "The King Of Scotland42" 2CliClient*: BROADCAST movie "The King Of Scotland98" 2Client*: BROADCAST movie "The King Of Scotland62" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland93" 2Client*: BROADCAST movie "The King Of Scotland80" 2 8
+Client*: BROADCAST movie "The King Of Scotland88" 2 8
+Client*: BROADCAST movie "The King Of Scotland55" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland0" 2CliClient*: BROADCAST movie "The King Of Scotland23" 2Client*: BROADCAST movie "The King Of Scotland84" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland99" 2CliClient*: BROADCAST movie "The King Of Scotland91" 2Client*: BROADCAST movie "The King Of Scotland87" 2 8
+Client*: BROADCAST movie "The King Of Scotland71" 2 8
+Client*: BROADCAST movie "The King Of Scotland96" 2 8
+Client*: BROADCAST movie "The King Of Scotland78" 2 8
+Client*: BROADCAST movie "The King Of Scotland95" 2 8
+Client*: BROADCAST movie "The King Of Scotland60" 2 8
+Client*: BROADCAST movie "The King Of Scotland54" 2 8
+Client*: BROADCAST movie "The King Of Scotland69" 2 8
+Client*: BROADCAST movie "The King Of Scotland83" 2 8
+Client*: BROADCAST movie "The King Of Scotland45" 2 8
+CliClient*: BROADCAST movie "The King Of Scotland51" 2Client*: BROADCAST movie "The King Of Scotland53" 2 8
+Client*: BROADCAST movie "The King Of Scotland86" 2 8
+Client*: BROADCAST movie "The King Of Scotland58" 2 8
+Client*: BROADCAST movie "The King Of Scotland85" 2 8
+Client*: BROADCAST movie "The King Of Scotland44" 2 8
+Client*: BROADCAST movie "The King Of Scotland76" 2 8
+Client*: BROADCAST movie "The King Of Scotland77" 2 8
+Client*: BROADCAST movie "The King Of Scotland75" 2 8
+Client*: ACK signout succeeded
+ed

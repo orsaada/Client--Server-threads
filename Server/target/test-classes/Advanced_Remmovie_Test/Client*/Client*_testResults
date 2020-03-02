@@ -1,0 +1,46 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user9 pass
+Client*: ACK login succeeded
+Client*: Client Message ===> REQUEST remmovie "The King Of Scotland5"
+ClClient*: BROADCAST movie "The King Of Scotland32" removeClient*: BROADCAST movie "The King Of Scotland15" removed
+ClClient*: BROADCAST movie "The King Of Scotland16" removed
+Client*: BROADCAST movie "The King Of Scotland21" removed
+Client*: BROADCAST movie "The King Of Scotland8" removeClient*: BROADCAST movie "The King Of Scotland19" removed
+Client*: BROADCAST movie "The King Of Scotland18" removed
+Client*: BROADCAST movie "The King Of Scotland34" removed
+Client*: BROADCAST movie "The King Of Scotland4" removed
+Client*: BROADCAST movie "The King Of Scotland25" removed
+Client*: BROADCAST movie "The King Of Scotland50" removed
+Client*: BROADCAST movie "The King Of Scotland52" removed
+Client*: BROADCAST movie "The King Of Scotland17" removed
+ClClient*: BROADCAST movie "The King Of Scotland57" removeClClient*: BROADCAST movie "The King Of Scotland58" removeClClient*: BROADCAST movie "The King Of Scotland90" removeClClient*: BROADCAST movie "The King Of Scotland38" removeClClient*: BROADCAST movie "The King Of Scotland55" removeClient*: BROADCAST movie "The King Of Scotland46" removed
+ClClient*: BROADCAST movie "The King Of Scotland53" removed
+Client*: BROADCAST movie "The King Of Scotland44" removeClClient*: BROADCAST movie "The King Of Scotland27" removeClClient*: BROADCAST movie "The King Of Scotland31" removeClClient*: BROADCAST movie "The King Of Scotland48" removeClClient*: BROADCAST movie "The King Of Scotland78" removeClient*: BROADCAST movie "The King Of Scotland23" removed
+ClClient*: BROADCAST movie "The King Of Scotland47" removed
+Client*: BROADCAST movie "The King Of Scotland10" removeClClient*: BROADCAST movie "The King Of Scotland77" removed
+Client*: BROADCAST movie "The King Of Scotland13" removeClient*: BROADCAST movie "The King Of Scotland63" removed
+ClClient*: BROADCAST movie "The King Of Scotland14" removeClient*: BROADCAST movie "The King Of Scotland5" removed
+Client*: BROADCAST movie "The King Of Scotland1" removed
+ClClient*: BROADCAST movie "The King Of Scotland7" removed
+Client*: BROADCAST movie "The King Of Scotland33" removed
+Client*: BROADCAST movie "The King Of Scotland29" removed
+Client*: ACK remmovie "The King OfClient*: BROADCAST movie "The King Of Scotland29" removed
+Client*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+oved
+Client*: BROADCAST movie "The King Of Scotland60" removed
+Client*: BROADCAST movie "The King Of Scotland49" removed
+Client*: BROADCAST movie "The King Of Scotland37" removed
+Client*: BROADCAST movie "The King Of Scotland35" removed
+ClClient*: BROADCAST movie "The King Of Scotland36" removeClClient*: BROADCAST movie "The King Of Scotland12" removeClClient*: BROADCAST movie "The King Of Scotland45" removeClClient*: BROADCAST movie "The King Of Scotland0" removeClClient*: BROADCAST movie "The King Of Scotland2" removeClient*: BROADCAST movie "The King Of Scotland28" removed
+ClClient*: BROADCAST movie "The King Of Scotland54" removeClClient*: BROADCAST movie "The King Of Scotland9" removedCClient*: BROADCAST movie "The King Of Scotland62" removeClClient*: ACK remmovie "The King Of Scotland62" success
+CClient*: BROADCAST movie "The King Of Scotland3" removed
+ClClient*: BROADCAST movie "The King Of Scotland22" removed
+Client*: ACK remmovie "The King Of Scotland22" success
+Client*: Client Message ===> SIGNOUT
+Client*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 

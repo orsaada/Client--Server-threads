@@ -1,0 +1,24 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: Response from server
+Client*: Client Message ===> Register
+Client*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 

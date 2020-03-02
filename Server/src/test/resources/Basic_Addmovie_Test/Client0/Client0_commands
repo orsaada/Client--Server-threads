@@ -1,0 +1,5 @@
+LOGIN lisa chips123
+REQUEST addmovie "Passengers" 3 30 "USA"
+REQUEST addmovie "The Force Awakens" 10 50 "Honk Kong" "China"
+REQUEST addmovie "The King Of Scotland" 2 8
+SIGNOUT

@@ -1,0 +1,13 @@
+Client2: Starting connect to 127.0.0.1:2222
+Client2: Client Message ===> LOGIN shlomi cocacola
+Client2: ACK login succeeded
+Client2: Client Message ===> REQUEST rent "The Godfather"  
+Client2: BROADCAST movie "The Godfather" 1 25
+Client2: ACK rent "The Godfather" success
+Client2: Client Message ===> SIGNOUT
+Client2: BROADCAST movie "The Pursuit Of Happyness" 3 14
+Client2: BROADCAST movie "Justice League" 3 17
+Client2: ACK signout succeeded
+Client2: Exiting...
+Client2: Test Message ===> Test Ended !!! Waiting for client termination...
+Client2: 

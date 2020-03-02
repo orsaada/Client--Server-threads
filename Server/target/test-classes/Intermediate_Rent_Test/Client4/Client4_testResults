@@ -1,0 +1,170 @@
+Client4: Starting connect to 127.0.0.1:2222
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER
+Client4: ERROR registration failed
+Client4: Client Message ===> REGISTER user4 pass country="land4"
+Client4: ACK registration succeeded
+Client4: Client Message ===> LOGIN user4 pass
+Client4: ACK login succeeded
+Client4: Client Message ===> SIGNOUT
+Client4: ACK signout succeeded
+Client4: Exiting...
+Client4: Test Message ===> Test Ended !!! Waiting for client termination...
+Client4: 

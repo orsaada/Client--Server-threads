@@ -1,0 +1,3 @@
+LOGIN user+ pass
+REQUEST remmovie "The King Of Scotland+"
+SIGNOUT

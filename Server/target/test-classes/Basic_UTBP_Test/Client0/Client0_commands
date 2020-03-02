@@ -1,0 +1,11 @@
+LOGIN john smith
+REGISTER 
+REGISTER john
+REGISTER john smith
+REGISTER john smith "hello"
+REGISTER john smith cou="hello"
+LOGIN john smith
+REGISTER john smith country="Israel"
+LOGIN john smith
+LOGIN john smith
+SIGNOUT

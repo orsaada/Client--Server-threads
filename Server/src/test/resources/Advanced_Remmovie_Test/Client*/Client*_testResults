@@ -1,0 +1,81 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user23 passCClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST remmovie "The King Of Scotland37ClClient*: BROADCAST movie "The King Of Scotland0" removed
+Client*: BROADCAST movie "The King Of Scotland29" removed
+Client*: BROADCAST movie "The King Of Scotland42" removed
+Client*: BROADCAST movie "The King Of Scotland37" removed
+Client*: ACK remmovie "The King Of Scotland43" success
+CliClient*: ACK remmovie "The King Of Scotland14" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "The King Of Scotland14" removed
+Client*: ACK signout succeeded
+g Of Scotland0" removCliClient*: BROADCAST movie "The King Of Scotland29" removed
+Client*: BROADCAST movie "The King Of Scotland42" removed
+Client*: BROADCAST movie "The King Of Scotland37" removed
+Client*: BROADCAST movie "The King Of Scotland43" removed
+Client*: BROADCAST movie "The King Of Scotland14" removed
+Client*: ACK signout succeeded
+ent*: ACK remmovie "The King Of Scotland73" success
+CClClient*: BROADCAST movie "The KingClient*: BROADCAST movieClient*: BROADCAST movie "The King Of Scotland65" removed
+Client*: BROADCAST movie "The King Of Scotland67" removed
+Client*: ACK remmovie "The King Of Scotland68" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "The King Of Scotland68" removed
+Client*: BROADCAST movieClient*: BROADCAST movie "The King Of Scotland66" removed
+Client*: BROADCAST movie "The King Of Scotland12" removed
+Client*: ACK remmovie "The King OfClient*: BROADCAST movie "The King Of Scotland12" removed
+Client*: BROADCAST movie "The King Of Scotland74" removed
+Client*: BROADCAST movie "The King Of Scotland89" removed
+Client*: BROADCAST movie "The King Of Scotland82" removed
+Client*: BROADCAST movie "The King Of Scotland96" removed
+Client*: BROADCAST movie "The King Of Scotland17" removed
+Client*: BROADCAST movie "The King Of Scotland1" removed
+Client*: BROADCAST movie "The King Of Scotland46" removed
+Client*: BROADCAST movie "The King Of Scotland22" removed
+Client*: BROADCAST movie "The King Of Scotland50" removed
+Client*: BROADCAST movClClient*: BROADCAST movie "The King Of Scotland77" removeClient*: BROADCAST movie "The King Of Scotland77" removed
+Client*: BROADCAST movie "The King Of Scotland80" removed
+Client*: BROADCAST movie "The King Of Scotland11" removed
+Client*: BROADCAST movie "The King Of Scotland16" removed
+Client*: BROADCAST movie "The King Of Scotland39" removed
+Client*: BROADCAST movie "The King Of Scotland49" removed
+Client*: BROADCAST movie "The King Of Scotland8" removed
+Client*: BROADCAST movie "The King Of Scotland41" removed
+Client*: BROADCAST movie "The King Of Scotland87" removed
+Client*: BROADCAST movie "The King Of Scotland85" removed
+Client*: BROADCAST movie "The King Of Scotland84" removed
+ClClient*: BROADCAST movie "The King Of Scotland44" removed
+Client*: BROADCAST movie "The King Of Scotland36" removed
+Client*: BROADCAST movie "The King Of Scotland4" removed
+Client*: BROADCAST movie "The King Of Scotland91" removed
+Client*: BROADCAST movie "The King Of Scotland90" removed
+Client*: BROADCAST movie "The King Of Scotland18" removed
+Client*: BROADCAST movie "The King Of Scotland38" removed
+Client*: BROADCAST movie "The King Of Scotland33" removed
+Client*: BROADCAST movie "The King Of Scotland94" removed
+Client*: BROADCAST movie "The King Of Scotland95" removed
+Client*: BROADCAST movie "The King Of Scotland10" removed
+Client*: BROADCAST movie "The King Of Scotland10" removeClClient*: BROADCAST movie "The King Of Scotland23" removeClClient*: BROADCAST movie "The King Of Scotland92" removeClClient*: BROADCAST movie "The King Of Scotland25" removed
+Client*: BROADCAST movie "The King Of Scotland99" removeClClient*: BROADCAST movie "The King Of Scotland51" removed
+Client*: BROADCAST movie "The King Of Scotland21" removed
+Client*: BROADCAST movie "The King Of Scotland61" removed
+Client*: BROADCAST movie "The King Of Scotland31" removed
+Client*: BROADCAST movie "The King Of Scotland47" removed
+Client*: BROADCAST movie "The King Of Scotland56" removed
+Client*: BROADCAST movie "The King Of Scotland24" removed
+Client*: BROADCAST movie "The King Of Scotland75" removed
+Client*: BROADCAST movie "The King Of Scotland2" removed
+Client*: BROADCAST movie "The King Of Scotland28" removed
+Client*: BROADCAST movie "The King Of Scotland13" removed
+Client*: BROADCAST movie "The King Of Scotland3" removed
+Client*: BROADCAST movie "The King Of Scotland34" removed
+Client*: BROADCAST movie "The King Of Scotland30" removed
+Client*: BROADCAST movie "The King Of Scotland9" removed
+Client*: BROADCAST movie "The King Of Scotland78" removed
+Client*: BROADCAST movie "The King Of Scotland72" removed
+Client*: BROADCAST movie "The King Of Scotland15" removed
+Client*: BROADCAST movie "The King Of Scotland35" removed
+Client*: ACK remmovie "The King Of Scotland19" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "The King Of Scotland19" removed
+Client*: BROADCAST movie "The King Of Scotland86" removCliClient*: ACK signout succeeded

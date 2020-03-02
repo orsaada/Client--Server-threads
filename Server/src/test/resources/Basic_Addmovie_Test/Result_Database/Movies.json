@@ -1,0 +1,72 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "The Godfather",
+      "totalAmount": "2",
+      "price": "25",
+      "bannedCountries": [
+        "united kingdom",
+        "italy"
+      ],
+      "availableAmount": "1"
+    },
+    {
+      "id": "2",
+      "name": "The Pursuit Of Happyness",
+      "totalAmount": "5",
+      "price": "14",
+      "bannedCountries": [],
+      "availableAmount": "3"
+    },
+    {
+      "id": "3",
+      "name": "The Notebook",
+      "totalAmount": "1",
+      "price": "5",
+      "bannedCountries": [],
+      "availableAmount": "0"
+    },
+    {
+      "id": "4",
+      "name": "Justice League",
+      "totalAmount": "4",
+      "price": "17",
+      "bannedCountries": [
+        "jordan",
+        "iran",
+        "lebanon"
+      ],
+      "availableAmount": "4"
+    },
+    {
+      "id": "5",
+      "name": "Passengers",
+      "totalAmount": "3",
+      "price": "30",
+      "bannedCountries": [
+        "USA"
+      ],
+      "availableAmount": "3"
+    },
+    {
+      "id": "6",
+      "name": "The Force Awakens",
+      "totalAmount": "10",
+      "price": "50",
+      "bannedCountries": [
+        "Honk Kong",
+        "China"
+      ],
+      "availableAmount": "10"
+    },
+    {
+      "id": "7",
+      "name": "The King Of Scotland",
+      "totalAmount": "2",
+      "price": "8",
+      "bannedCountries": [],
+      "availableAmount": "2"
+    }
+  ]
+}

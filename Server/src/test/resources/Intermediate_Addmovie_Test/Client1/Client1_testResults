@@ -1,0 +1,68 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN lisa chips123
+Client1: ACK login succeeded
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: BROADCAST movie "Passengers" 3 30
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: BROADCAST movie "The Force Awakens" 10 50
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: BROADCAST movie "The King Of Scotland" 2 8
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> REQUEST balance info
+Client1: ACK balance 37
+Client1: Client Message ===> SIGNOUT
+Client1: ACK signout succeeded

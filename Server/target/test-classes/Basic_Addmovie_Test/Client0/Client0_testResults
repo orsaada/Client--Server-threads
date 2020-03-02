@@ -1,0 +1,12 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN lisa chips123
+Client0: ACK login succeeded
+Client0: Client Message ===> REQUEST addmovie "Passengers" 3 30 "USA"
+Client0: ERROR request addmovie failed
+Client0: Client Message ===> REQUEST addmovie "The Force Awakens" 10 50 "Honk Kong" "China"
+Client0: ERROR request addmovie failed
+Client0: Client Message ===> REQUEST addmovie "The King Of Scotland" 2 8
+Client0: BROADCAST movie "Passengers" 3 30
+Client0: ERROR request addmovie failed
+Client0: Client Message ===> SIGNOUT
+Client0: ACK signout succeeded

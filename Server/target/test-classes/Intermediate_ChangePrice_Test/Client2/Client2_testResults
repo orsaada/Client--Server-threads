@@ -1,0 +1,13 @@
+Client2: Starting connect to 127.0.0.1:2222
+Client2: Client Message ===> LOGIN user1 pass
+Client2: ACK login succeeded
+Client2: Client Message ===> REQUEST changeprice "Justice League" 90
+Client2: BROADCAST movie "Justice League" 4 90
+Client2: BROADCAST movie "The Pursuit Of Happyness" 3 60
+Client2: BROADCAST movie "The Godfather" 1 40
+Client2: ACK changeprice "Justice League" success
+Client2: Client Message ===> SIGNOUT
+Client2: ACK signout succeeded
+Client2: Exiting...
+Client2: Test Message ===> Test Ended !!! Waiting for client termination...
+Client2: 

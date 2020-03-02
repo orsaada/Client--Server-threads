@@ -1,0 +1,20 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN smith potato
+Client0: ERROR login failed
+Client0: Client Message ===> REGISTER john hell country="Denemark"
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER john potato country="Denemark"
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER lisa potato country="Denemark"
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER shlomi potato country="Denemark"
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER smith potato country="Denemark"
+Client0: ACK registration succeeded
+Client0: Client Message ===> LOGIN smith potato
+Client0: ACK login succeeded
+Client0: Client Message ===> SIGNOUT
+Client0: ACK signout succeeded
+Client0: Exiting...
+Client0: Test Message ===> Test Ended !!! Waiting for client termination...
+Client0: 

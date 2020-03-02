@@ -1,0 +1,3 @@
+LOGIN user1 pass
+REQUEST remmovie "The Notebook"
+SIGNOUT

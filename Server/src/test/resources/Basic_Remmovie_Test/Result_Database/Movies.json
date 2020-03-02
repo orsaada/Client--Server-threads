@@ -1,0 +1,31 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "The Godfather",
+      "totalAmount": "2",
+      "price": "25",
+      "bannedCountries": [
+        "united kingdom",
+        "italy"
+      ],
+      "availableAmount": "1"
+    },
+    {
+      "id": "2",
+      "name": "The Pursuit Of Happyness",
+      "totalAmount": "5",
+      "price": "14",
+      "bannedCountries": [],
+      "availableAmount": "3"
+    },
+    {
+      "id": "3",
+      "name": "The Notebook",
+      "totalAmount": "1",
+      "price": "5",
+      "bannedCountries": [],
+      "availableAmount": "0"
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/spl_net_client.dir/src/connectionHandler.cpp.o CMakeFiles/spl_net_client.dir/src/BBclient.cpp.o  -o spl_net_client -lboost_system -lboost_thread 

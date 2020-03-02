@@ -1,0 +1,6 @@
+LOGIN john potato
+REQUEST balance info
+REQUEST balance add 20
+REQUEST balance info
+REQUEST balance add 5
+SIGNOUT

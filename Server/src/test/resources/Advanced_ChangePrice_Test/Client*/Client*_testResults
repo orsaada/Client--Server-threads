@@ -1,0 +1,68 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user95 passCClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST changeprice "movie77" 1Client*: BROADCAST movie "movie32" 32 132
+CliClient*: BROADCAST movie "movie19" 19 119
+Client*: BROADCAST movie "movie75" 75 175
+Client*: BROADCAST movie "movie77" 77 177
+Client*: BROADCAST movie "movie0" 0 10
+Client*: ACK changeprice "movie12" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "movie12" 12 ClieClient*: ACK signout succeeded
+
+Client*: BROADCAST movie "movie23" 23 123
+Client*: ACK signout succeeded
+vie "movie25" 25 125
+Client*: BROADCAST movie "movie7" 7 17
+Client*: ACK signout succeeded
+vie7" 7 17CClient*: BROADCAST movie "movie25" 25 125
+Client*: BROADCAST movie "movie7" 7 17
+Client*: BROADCAST movie "movie6" 6 16
+Client*: BROADCAST movie "movie23" 23 123
+Client*: ACK signout succeeded
+ie "movie45" 45 145
+Client*: BROADCAST movie "movie53" 53 153
+Client*: BROADCAST movie "movie9" 9 19
+Client*: BROADCAST movie "movie25" 25 125
+Client*: BROADCAST movie "movie7" 7 17
+Client*: ACK signout succeeded
+ movie "movie24" 24 124
+Client*: BROADCAST movie "movie24" 24 124
+Client*: BROADCAST movie "movie26" 26 126
+Client*: BROADCAST movie "movie95" 95 195
+Client*: BROADCAST movie "movie3" 3 13
+Client*: BROADCAST movie "movie47" 47 Client*: BROADCAST movie "movie26" 26 126
+Client*: BROADCAST movie "movie95" 95 195
+Client*: BROADCAST movie "movie3" 3 13
+Client*: BROADCAST movie "movie47" 47 147
+Client*: BROADCAST movie "movie96" 96 196
+Client*: BROADCAST movie "movie82" 82 182
+Client*: BROADCAST movie "movie87" 87 187
+Client*: BROADCAST movie "movie72" 72 172
+Client*: BROADCAST movie "movie73" 73 173
+Client*: BROADCAST movie "movie84" 84 184
+Client*: BROADCAST movie "movie76" 76 1CliClient*: BROADCAST movie "movie18" 18 118
+Client*: BROADCAST movie "movie11" Client*: BROADCAST movie "movie18" 18 118
+Client*: BROADCAST movie "movie11" 11 111
+Client*: BROADCAST movie "movie14" 14 114
+Client*Client*: BROADCAST movie "movie86" 86 186
+Client*: BROADCAST movie "movie57" 57 157
+Client*: BROADCAST movie "movie63" 63 163
+Client*: BROADCAST movie "movie13" 13 113
+Client*: BROADCAST movie "movie67" 67 1Client*: BROADCAST movie "movie63" 63 163
+CliClient*: ACK signout succeeded
+ 67 167
+CliClient*: ACK signout succeeded
+ 56 156
+Client*: ACK signout succeeded
+56" 56 ClieClient*: ACK signout succeeded
+ 14 114
+CliClient*: ACK signout succeeded
+ 10 110
+Client*: BROADCAST movie "movie69" 69 169
+Client*: BROADCAST movie "movie64" 64 164
+Client*: BROADCAST movie "movie86" 86 186
+Client*: BROADCAST movie "movie57" 57 157
+Client*: BROADCAST movie "movie63" 63 163
+Client*: BROADCAST movie "movie13" 13 113
+Client*: BROADCAST movie "movie67" 67 167
+Client*: BROADCAST movie "movie56" 56 ClieClient*: ACK signout succeeded

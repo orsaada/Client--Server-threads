@@ -1,0 +1,5 @@
+LOGIN lisa chips123
+REQUEST rent "The Pursuit Of Happyness"
+REQUEST rent "The Notebook"
+REQUEST rent "Justice League"
+SIGNOUT

@@ -1,0 +1,15 @@
+Client2: Starting connect to 127.0.0.1:2222
+Client2: Client Message ===> LOGIN shlomi cocacola
+Client2: ACK login succeeded
+Client2: Client Message ===> REQUEST info "The Notebook"
+Client2: ACK info "The Notebook" 0 5
+Client2: Client Message ===> REQUEST info "The Pursuit Of Happyness"
+Client2: ACK info "The Pursuit Of Happyness" 3 14
+Client2: Client Message ===> REQUEST info
+Client2: ACK info "The Godfather" "The Pursuit Of Happyness" "The Notebook" "Justice League"
+Client2: Client Message ===> REQUEST info "The Godfather"
+Client2: ACK info "The Godfather" 1 25 "united kingdom" "italy"
+Client2: Client Message ===> REQUEST info "Justice League"
+Client2: ACK info "Justice League" 4 17 "jordan" "iran" "lebanon"
+Client2: Client Message ===> SIGNOUT
+Client2: ACK signout succeeded

@@ -1,0 +1,13 @@
+LOGIN john potato
+REQUEST addmovie "The Godfather" 3 30 "USA"
+REQUEST addmovie "The Notebook" 3 30 "USA"
+REQUEST addmovie "Passengers" 3 30 "USA"
+REQUEST addmovie "The Force Awakens" 0 50 "Honk Kong" "China"
+REQUEST addmovie "The Force Awakens" 10 -1 "Honk Kong" "China"
+REQUEST addmovie "The Force Awakens" -1 1 "Honk Kong" "China"
+REQUEST addmovie "The Force Awakens" 5 0 "Honk Kong" "China"
+REQUEST addmovie "The Force Awakens" 10 50 "Honk Kong" "China"
+REQUEST addmovie "Justice League" 2 8
+REQUEST addmovie "The Pursuit Of Happyness" 2 8
+REQUEST addmovie "The King Of Scotland" 2 8
+SIGNOUT

@@ -1,0 +1,3 @@
+LOGIN user0 pass
+REQUEST remmovie "The Pursuit Of Happyness"
+SIGNOUT

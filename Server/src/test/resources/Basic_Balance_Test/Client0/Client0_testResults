@@ -1,0 +1,13 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN lisa chips123
+Client0: ACK login succeeded
+Client0: Client Message ===> REQUEST balance info
+Client0: ACK balance 37
+Client0: Client Message ===> REQUEST balance add 20
+Client0: ACK balance 57 added 20
+Client0: Client Message ===> REQUEST balance info
+Client0: ACK balance 57
+Client0: Client Message ===> REQUEST balance add 5
+Client0: ACK balance 62 added 5
+Client0: Client Message ===> SIGNOUT
+Client0: ACK signout succeeded

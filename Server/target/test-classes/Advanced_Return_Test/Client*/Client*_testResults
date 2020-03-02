@@ -1,0 +1,128 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> REGISTER user547632.6065410743 pass country="land547632.60654107ClClClClient*: ACK registration succeeded
+Client*: Client Message ===> LOGIN user493612.69322152704CliCliClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST rent "Justice LeaCliClient*: BROADCAST movie "Justice League" 225CliClient*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: ACK rent "Justice League" success
+Client*: Client Message ===> REQUEST return "Justice League" 
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice LeaguClient*: BROADCAST movie "Justice League" 224 0
+Client*: Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice LeClient*: BROADCAST movie "Justice League" 224 0
+CliCliClient*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" Client*: ACK rent "Justice League" success
+Client*: Client Message ===> REQUEST return "Justice League" 
+Client*: BROADCAST movie "Justice League" 224 0
+Client*: BROADCAST movie "Justice League" 213 0
+Client*: BROADCAST movie "Justice League" 225 0
+Client*: BROADCAST movie "Justice League" 227 0
+Client*: BROADCAST movie "Justice League" 228 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+ClientClient*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice LeClient*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 239 0
+Client*: BROADCAST movie "Justice League" 241 0
+Client*: BROADCAST movie "Justice League" 243 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+: 
+ustice League" 215 0
+Client*: BROADCAST movie "Justice League" 215 0
+Client*: BROADCAST movie "Justice League" 218 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 230 0
+Client*: BROADCAST movie "Justice League" 232 0
+Client*: BROADCAST movie "Justice League" 233 0
+Client*: BROADCAST movie "Justice League" 233 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234 0
+Client*: BROADCAST movie "Justice League" 234Client*: BROADCAST movie "Justice League" 234 0
+CliClient*: BROADCAST movie "Justice League" Client*: BROADCAST movie "Justice League" 240 0
+ClientClient*: BROADCAST movie "Justice League" 241 0
+Client*: BROADCAST movie "Justice League" 242 0
+Client*: BROADCAST movie "Justice League" 242 0
+Client*: BROADCAST movie "Justice League" ClientClient*: BROADCAST movie "Justice League" ClientClient*: BROADCAST movie "Justice League" ClientClient*: BROADCAST movie "Justice League" 245 0
+Client*: BROADCAST movie "Justice League" 245 0
+Client*: BROADCAST movie "Justice League" 246 0
+Client*: BROADCAST movie "Justice League" 246 0
+Client*: ACK return "Justice League" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "Justice League" 247 0
+Client*: BROADCAST movie "Justice League" 247 0
+Client*: BROADCAST movie "Justice League" 247 0
+Client*: BROADCAST movie "Justice League" 247 0
+Client*: BROADCAST movie "Justice League" 248 0
+Client*: BRClient*: BROADCAST movie "Justice League" 249 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: ACK return "Justice League" success
+CliClient*: BROADCAST movie "Justice Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250 0
+Client*: BROADCAST movie "Justice League" 250CliClient*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+: 

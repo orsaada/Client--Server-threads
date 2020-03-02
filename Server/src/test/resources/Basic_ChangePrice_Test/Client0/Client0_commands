@@ -1,0 +1,5 @@
+LOGIN lisa chips123
+REQUEST changeprice "The Godfather" 40
+REQUEST changeprice "The Pursuit Of Happyness" 60
+REQUEST changeprice "Justice League" 60
+SIGNOUT

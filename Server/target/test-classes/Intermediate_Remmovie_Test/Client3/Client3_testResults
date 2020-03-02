@@ -1,0 +1,170 @@
+Client3: Starting connect to 127.0.0.1:2222
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER
+Client3: ERROR registration failed
+Client3: Client Message ===> REGISTER user3 pass country="land3"
+Client3: ACK registration succeeded
+Client3: Client Message ===> LOGIN user3 pass
+Client3: ACK login succeeded
+Client3: Client Message ===> SIGNOUT
+Client3: ACK signout succeeded
+Client3: Exiting...
+Client3: Test Message ===> Test Ended !!! Waiting for client termination...
+Client3: 

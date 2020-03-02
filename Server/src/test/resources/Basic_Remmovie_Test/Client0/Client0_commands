@@ -1,0 +1,6 @@
+LOGIN lisa chips123
+REQUEST remmovie "The Godfather"
+REQUEST remmovie "The Pursuit Of Happyness"
+REQUEST remmovie "Justice League"
+REQUEST remmovie "The Notebook"
+SIGNOUT

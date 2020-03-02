@@ -1,0 +1,13 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN john potato
+Client0: ACK login succeeded
+Client0: Client Message ===> REQUEST remmovie "The Godfather"
+Client0: BROADCAST movie "The Pursuit Of Happyness" removed
+Client0: BROADCAST movie "The Notebook" removed
+Client0: BROADCAST movie "The Godfather" removed
+Client0: ACK remmovie "The Godfather" success
+Client0: Client Message ===> SIGNOUT
+Client0: ACK signout succeeded
+Client0: Exiting...
+Client0: Test Message ===> Test Ended !!! Waiting for client termination...
+Client0: 

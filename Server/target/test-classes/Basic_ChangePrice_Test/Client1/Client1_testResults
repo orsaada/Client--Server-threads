@@ -1,0 +1,31 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN john potato
+Client1: ACK login succeeded
+Client1: Client Message ===> REQUEST changeprice "The Godfather" 40
+Client1: BROADCAST movie "The Godfather" 1 40
+Client1: ACK changeprice "The Godfather" success
+Client1: Client Message ===> REQUEST changeprice "The Godfather" -10
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "The Godfather" 0
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "The Pursuit Of Happyness" 60
+Client1: BROADCAST movie "The Pursuit Of Happyness" 3 60
+Client1: ACK changeprice "The Pursuit Of Happyness" success
+Client1: Client Message ===> REQUEST changeprice "The Pursuit Of Happyness" 0
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "The Pursuit Of Happyness" -2
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "Justice League" 90
+Client1: BROADCAST movie "Justice League" 4 90
+Client1: ACK changeprice "Justice League" success
+Client1: Client Message ===> REQUEST changeprice "Justice League Director Cut" 60
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "Justice League Prequal" 60
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> REQUEST changeprice "Justice League Two" 60
+Client1: ERROR request changeprice failed
+Client1: Client Message ===> SIGNOUT
+Client1: ACK signout succeeded
+Client1: Exiting...
+Client1: Test Message ===> Test Ended !!! Waiting for client termination...
+Client1: 

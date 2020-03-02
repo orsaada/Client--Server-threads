@@ -1,0 +1,8 @@
+LOGIN smith potato
+REGISTER john hell country="Denemark"
+REGISTER john potato country="Denemark"
+REGISTER lisa potato country="Denemark"
+REGISTER shlomi potato country="Denemark"
+REGISTER smith potato country="Denemark"
+LOGIN smith potato
+SIGNOUT

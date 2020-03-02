@@ -1,0 +1,26 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN john smith
+Client0: ERROR login failed
+Client0: Client Message ===> REGISTER 
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER john
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER john smith
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER john smith "hello"
+Client0: ERROR registration failed
+Client0: Client Message ===> REGISTER john smith cou="hello"
+Client0: ERROR registration failed
+Client0: Client Message ===> LOGIN john smith
+Client0: ERROR login failed
+Client0: Client Message ===> REGISTER john smith country="Israel"
+Client0: ACK registration succeeded
+Client0: Client Message ===> LOGIN john smith
+Client0: ACK login succeeded
+Client0: Client Message ===> LOGIN john smith
+Client0: ERROR login failed
+Client0: Client Message ===> SIGNOUT
+Client0: ACK signout succeeded
+Client0: Exiting...
+Client0: Test Message ===> Test Ended !!! Waiting for client termination...
+Client0: 

@@ -1,0 +1,8 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN john potato
+Client1: ACK login succeeded
+Client1: Client Message ===> SIGNOUT
+Client1: ACK signout succeeded
+Client1: Exiting...
+Client1: Test Message ===> Test Ended !!! Waiting for client termination...
+Client1: 

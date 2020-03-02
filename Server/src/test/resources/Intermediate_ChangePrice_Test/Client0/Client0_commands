@@ -1,0 +1,3 @@
+LOGIN john potato
+REQUEST changeprice "The Godfather" 40
+SIGNOUT

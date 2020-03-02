@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "type": "admin",
+      "password": "potato",
+      "country": "united states",
+      "movies": [],
+      "balance": "0"
+    },
+    {
+      "username": "lisa",
+      "type": "normal",
+      "password": "chips123",
+      "country": "spain",
+      "movies": [
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        }
+],
+      "balance": "37"
+    },
+    {
+      "username": "shlomi",
+      "type": "normal",
+      "password": "cocacola",
+      "country": "israel",
+      "movies": [
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        }
+      ],
+      "balance": "112"
+    },
+    {
+      "username": "adam",
+      "type": "normal",
+      "password": "jen",
+      "country": "uk",
+      "movies": [
+        {
+          "id": "1",
+          "name": "The Godfather"
+        }
+      ],
+      "balance": "50"
+    },
+    {
+      "username": "user3",
+      "type": "normal",
+      "password": "pass",
+      "country": "land3",
+      "movies": [],
+      "balance": "0"
+    },
+    {
+      "username": "user4",
+      "type": "normal",
+      "password": "pass",
+      "country": "land4",
+      "movies": [],
+      "balance": "0"
+    }
+  ]
+}

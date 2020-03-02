@@ -1,0 +1,68 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> LOGIN user97 passCClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST changeprice "movie66" 1CliClient*: BROADCAST movie "movie45" 45 1Client*: BROADCAST movie "movie48" 48 148
+Client*: BROADCAST movie "movie1" 1 11
+CliClient*: BROADCAST movie "movie65" 65 165
+Client*: BROADCAST movie "movie11" 11 111
+Client*: BROADCAST movie "movie57" 57 1Client*: BROADCAST movie "movie57" 57 157
+Client*: BROADCAST movie "movie7" 7 17
+Client*: BROADCAST movie "movie4" 4 14
+CliCliClient*: BROADCAST movie "movie4" 4 Client*: BROADCAST movie "movie46" 46 146
+Client*: BROADCAST movie "movie9" 9 19
+Client*: ACK changeprice "movie9" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "movie29" 29 129
+Client*: BROADCAST movie "movie27" 27 127
+Client*: BROADCAST movie "movie61" 61 161
+Client*: BROADCAST movie "movie67" 67 167
+Client*: BROADCAST movie "movie32" 32 132
+Client*: BROADCAST movie "movie83" 83 183
+Client*: BROADCAST movie "movie40" 40 140
+Client*: BROADCAST movie "movie25" 25 125
+Client*: BROADCAST movie "movie24" 24 124
+Client*: BROADCAST movie "movie34" 34 134
+Client*: BROADCAST movie "movie80" 80 180
+Client*: BROADCAST movie "movie79" 79 179
+Client*: BROADCAST movie "movie35" 35 135
+Client*: BROADCAST movie "movie0" 0 10
+Client*: BROADCAST movie "movie18" 18 118
+ClieClient*: BROADCAST movie "movie6" 6 16
+Client*: BROADCAST movie "movie15" 15 115
+Client*: BROADCAST movie "movie13" 13 113
+Client*: BROADCAST movie "movie5" 5 15
+Client*: BROADCAST movie "movie17" 17 Client*: BROADCAST movie "movie8" 8 18
+Client*: BROADCAST movie "movie81" 81 181
+Client*: BROADCAST movie "movie16" 16 116
+Client*: BROADCAST movie "movie38" 38 138
+Client*: BROADCAST movie "movie64" 64 164
+Client*: BROADCAST movie "movie66" 66 166
+Client*: BROADCAST movie "movie3" 3 13
+ClieClient*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+ie "movie37" 37 137
+Client*: BROADCAST movie "movie36" 36 136
+Client*: BROADCAST movie "movie2" 2 12
+Client*: BROADCAST movie "movie47" 47 147
+Client*: BROADCAST movie "movie43" 43 143
+Client*: BROADCAST movie "movie84" 84 184
+Client*: BROADCAST movie "movie89" 89 189
+Client*: BROADCAST movie "movie26" 26 126
+Client*: BROADCAST movie "movie20" 20 120
+Client*: BROADCAST movie "movie74" 74 174
+Client*: BROADCAST movie "movie51" 51 151
+Client*: BROADCAST movie "movie91" 91 191
+Client*: BROADCAST movie "movie69" 69 169
+Client*: ACK changeprice "movie69" success
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "movie19" 19 119
+Client*: BROADCAST movie "movie31" 31 131
+ClienClient*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "movie14" 14 114
+Client*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+iting for client termination...
+Client*: 

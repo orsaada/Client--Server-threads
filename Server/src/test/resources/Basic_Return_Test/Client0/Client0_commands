@@ -1,0 +1,6 @@
+LOGIN lisa chips123
+REQUEST return "Does not exist"
+REQUEST return "The Godfather"
+REQUEST return "Justice League"
+REQUEST return "The Notebook"
+SIGNOUT

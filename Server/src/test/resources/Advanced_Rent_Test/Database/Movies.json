@@ -1,0 +1,43 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "name": "The Godfather",
+      "price": "113",
+      "bannedCountries": [
+        "united kingdom",
+        "italy"
+      ],
+      "availableAmount": "1",
+      "totalAmount": "2"
+    },
+    {
+      "id": "2",
+      "name": "The Pursuit Of Happyness",
+      "price": "14",
+      "bannedCountries": [],
+      "availableAmount": "0",
+      "totalAmount": "5"
+    },
+    {
+      "id": "3",
+      "name": "The Notebook",
+      "price": "5",
+      "bannedCountries": ["israel"],
+      "availableAmount": "3",
+      "totalAmount": "4"
+    },
+    {
+      "id": "4",
+      "name": "Justice League",
+      "price": "0",
+      "bannedCountries": [
+        "jordan",
+        "iran",
+        "lebanon"
+      ],
+      "availableAmount": "10",
+      "totalAmount": "11"
+    }
+  ]
+}

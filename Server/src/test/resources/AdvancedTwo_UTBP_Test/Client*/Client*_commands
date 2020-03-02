@@ -1,0 +1,4 @@
+LOGIN user+ pass
+REGISTER user+ pass country="22+"
+LOGIN user+ pass
+SIGNOUT

@@ -1,0 +1,13 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN lisa chips123
+Client0: ACK login succeeded
+Client0: Client Message ===> REQUEST return "The Notebook"
+Client0: BROADCAST movie "Justice League" 4 17
+Client0: BROADCAST movie "The Notebook" 1 5
+Client0: ACK return "The Notebook" success
+Client0: Client Message ===> SIGNOUT
+Client0: BROADCAST movie "The Godfather" 1 25
+Client0: ACK signout succeeded
+Client0: Exiting...
+Client0: Test Message ===> Test Ended !!! Waiting for client termination...
+Client0: 

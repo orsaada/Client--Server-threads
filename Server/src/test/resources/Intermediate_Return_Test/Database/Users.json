@@ -1,0 +1,63 @@
+{
+  "users": [
+    {
+      "username": "john",
+      "type": "admin",
+      "password": "potato",
+      "country": "united states",
+      "movies": [],
+      "balance": "0"
+    },
+    {
+      "username": "lisa",
+      "type": "normal",
+      "password": "chips123",
+      "country": "spain",
+      "movies": [
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        },
+        {
+          "id": "3",
+          "name": "The Notebook"
+        }
+      ],
+      "balance": "37"
+    },
+    {
+      "username": "shlomi",
+      "type": "normal",
+      "password": "cocacola",
+      "country": "israel",
+      "movies": [
+        {
+          "id": "1",
+          "name": "The Godfather"
+        },
+        {
+          "id": "2",
+          "name": "The Pursuit Of Happyness"
+        }
+      ],
+      "balance": "112"
+    },
+    {
+      "username": "adam",
+      "type": "normal",
+      "password": "jen",
+      "country": "uk",
+      "movies": [
+        {
+          "id": "1",
+          "name": "The Godfather"
+        },
+        {
+          "id": "4",
+          "name": "Justice League"
+        }
+      ],
+      "balance": "50"
+    }
+  ]
+}

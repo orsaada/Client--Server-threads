@@ -1,0 +1,22 @@
+Client*: Starting connect to 127.0.0.1:2222
+Client*: Client Message ===> REGISTER user457539.703513155 pass country="land457539.703513155ClClClient*: ACK registration succeeded
+Client*: Client Message ===> LOGIN user334865.4412750285 paCliClient*: ACK login succeeded
+Client*: Client Message ===> REQUEST rent "Justice LeagueCliClient*: ERROR request rent failed
+Client*: Client Message ===> SIGNOCliClient*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+: 
+failed
+Client*: Client Message ===> SIGNOUT
+Client*: BROADCAST movie "Justice League" 0 0
+Client*: BROADCAST movie "Justice League" 0 0
+Client*: BROADCAST movie "Justice League" 0 0
+Client*: BROADCAST movie "Justice League" 0 0
+Client*: BROADCAST movie "Justice League" 0 0
+Client*: BROADCAST movie "Justice League" 0CliClient*: ACK signout succeeded
+Client*: Exiting...
+Client*: Test Message ===> Test Ended !!! Waiting for client termination...
+Client*: 
+ient*: 
+: 

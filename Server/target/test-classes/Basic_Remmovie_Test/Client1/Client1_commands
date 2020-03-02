@@ -1,0 +1,7 @@
+LOGIN john potato
+REQUEST remmovie "The Godfather"
+REQUEST remmovie "The Pursuit Of Happyness"
+REQUEST remmovie "The Notebook"
+REQUEST remmovie "does not exist"
+REQUEST remmovie "Justice League"
+SIGNOUT

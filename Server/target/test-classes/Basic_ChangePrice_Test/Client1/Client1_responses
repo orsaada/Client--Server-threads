@@ -1,0 +1,12 @@
+ACK login succeeded
+ACK changeprice "The Godfather" success
+ERROR request changeprice failed
+ERROR request changeprice failed
+ACK changeprice "The Pursuit Of Happyness" success
+ERROR request changeprice failed
+ERROR request changeprice failed
+ACK changeprice "Justice League" success
+ERROR request changeprice failed
+ERROR request changeprice failed
+ERROR request changeprice failed
+ACK signout succeeded

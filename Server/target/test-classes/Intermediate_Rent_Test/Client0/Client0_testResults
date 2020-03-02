@@ -1,0 +1,13 @@
+Client0: Starting connect to 127.0.0.1:2222
+Client0: Client Message ===> LOGIN john potato
+Client0: ACK login succeeded
+Client0: Client Message ===> REQUEST rent "The Pursuit Of Happyness"  
+Client0: BROADCAST movie "The Godfather" 1 25
+Client0: BROADCAST movie "The Pursuit Of Happyness" 3 14
+Client0: ACK rent "The Pursuit Of Happyness" success
+Client0: Client Message ===> SIGNOUT
+Client0: BROADCAST movie "Justice League" 3 17
+Client0: ACK signout succeeded
+Client0: Exiting...
+Client0: Test Message ===> Test Ended !!! Waiting for client termination...
+Client0: 

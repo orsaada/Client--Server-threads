@@ -1,0 +1,19 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN john potato
+Client1: ACK login succeeded
+Client1: Client Message ===> REQUEST remmovie "The Godfather"
+Client1: ERROR request remmovie failed
+Client1: Client Message ===> REQUEST remmovie "The Pursuit Of Happyness"
+Client1: ERROR request remmovie failed
+Client1: Client Message ===> REQUEST remmovie "The Notebook"
+Client1: ERROR request remmovie failed
+Client1: Client Message ===> REQUEST remmovie "does not exist"
+Client1: ERROR request remmovie failed
+Client1: Client Message ===> REQUEST remmovie "Justice League"
+Client1: BROADCAST movie "Justice League" removed
+Client1: ACK remmovie "Justice League" success
+Client1: Client Message ===> SIGNOUT
+Client1: ACK signout succeeded
+Client1: Exiting...
+Client1: Test Message ===> Test Ended !!! Waiting for client termination...
+Client1: 

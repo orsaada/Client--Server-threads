@@ -1,0 +1,17 @@
+Client1: Starting connect to 127.0.0.1:2222
+Client1: Client Message ===> LOGIN lisa chips123
+Client1: ACK login succeeded
+Client1: Client Message ===> REQUEST rent "The Pursuit Of Happyness"
+Client1: BROADCAST movie "The Godfather" 1 25
+Client1: ERROR request rent failed
+Client1: Client Message ===> REQUEST rent "The Notebook"
+Client1: BROADCAST movie "The Pursuit Of Happyness" 3 14
+Client1: ERROR request rent failed
+Client1: Client Message ===> REQUEST rent "Justice League"
+Client1: BROADCAST movie "Justice League" 3 17
+Client1: ACK rent "Justice League" success
+Client1: Client Message ===> SIGNOUT
+Client1: ACK signout succeeded
+Client1: Exiting...
+Client1: Test Message ===> Test Ended !!! Waiting for client termination...
+Client1: 

@@ -1,0 +1,3 @@
+LOGIN user+ pass
+REQUEST addmovie "The King Of Scotland+" 2 8
+SIGNOUT

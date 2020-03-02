@@ -1,0 +1,12 @@
+LOGIN john potato
+REQUEST changeprice "The Godfather" 40
+REQUEST changeprice "The Godfather" -10
+REQUEST changeprice "The Godfather" 0
+REQUEST changeprice "The Pursuit Of Happyness" 60
+REQUEST changeprice "The Pursuit Of Happyness" 0
+REQUEST changeprice "The Pursuit Of Happyness" -2
+REQUEST changeprice "Justice League" 90
+REQUEST changeprice "Justice League Director Cut" 60
+REQUEST changeprice "Justice League Prequal" 60
+REQUEST changeprice "Justice League Two" 60
+SIGNOUT
